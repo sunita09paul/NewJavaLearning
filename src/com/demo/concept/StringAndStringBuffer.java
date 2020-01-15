@@ -7,7 +7,7 @@ public class StringAndStringBuffer {
 		String s = new String ("Sunita");
 		s.concat("Paul");
 		System.out.println(s);
-		System.out.println("I am Rushikesh");
+		System.out.println("I am Rushikghdghsgdgfhgfhhsgdhsdghsgdesh");
 		
 		
 		StringBuffer p =new StringBuffer("Sunita");
